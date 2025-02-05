@@ -6,10 +6,11 @@ Controls
     WASD – Move your character
     Spacebar – Perform a double jump before landing
 
-About the Game
+#About the Game
 
 This project features hand-crafted assets, immersive environments, and smooth platforming mechanics. Our goal is to create an engaging experience that blends exploration and action.
-Get Started
+
+#Get Started
 
 All game assets and source code can be found in this GitHub repository. Feel free to explore, contribute, or modify as needed.
 
