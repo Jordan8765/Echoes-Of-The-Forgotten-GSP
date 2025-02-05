@@ -1,8 +1,5 @@
 # ECHOES OF THE FORGOTTEN
 
-Here's an improved version of your README with clearer structure, better readability, and a more professional tone:
-Echoes of the Forgotten
-
 Echoes of the Forgotten is a 2D platformer developed by Hummus Party. Players take on the role of a robotic expeditioner navigating alien landscapes, uncovering secrets of ancient civilizations, and surviving against hostile creatures.
 Controls
 
