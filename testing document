@@ -1,0 +1,12 @@
+# Testing Document – Echoes of the Forgotten
+
+# Player Controls
+
+✅ Test WASD movement – Ensure smooth and responsive movement.
+✅ Test jumping – Player should not be able to jump before landing.
+✅ Test collision detection – Character should not pass through walls or platforms.
+
+# Physics & Movement
+
+🔹 Spamming jump – Does the player get stuck or exceed the double-jump limit?
+🔹 Moving into walls – Does the player clip through objects
