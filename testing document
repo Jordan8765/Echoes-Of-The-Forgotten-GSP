@@ -6,6 +6,10 @@
 ✅ Test jumping – Player should not be able to jump before landing.
 ✅ Test collision detection – Character should not pass through walls or platforms.
 
+# Game Mechanics
+
+Test items - Player should be able to collect them and increase the bar with it
+
 # Physics & Movement
 
 🔹 Spamming jump – Does the player get stuck or exceed the double-jump limit?
