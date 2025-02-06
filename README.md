@@ -14,4 +14,6 @@ This project features hand-crafted assets, immersive environments, and smooth pl
 
 All game assets and source code can be found in this GitHub repository. Feel free to explore, contribute, or modify as needed.
 
+In case of error with the github download link with google drive is available here https://drive.google.com/file/d/1QnhqgNAw_GhA7PleIE2ATUGm7pchvsWb/view?usp=sharing
+
 Enjoy the adventure, and thank you for checking out Echoes of the Forgotten! 🚀
